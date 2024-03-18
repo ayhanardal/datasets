@@ -1,0 +1,255 @@
+{
+  "troubleshooters": [
+    {
+      "id": "1",
+      "name": "Mitt barn är arg eller aggressiv",
+      "asset_name": "2.png",
+      "description": "Förstå och lugna ditt barns ilska",
+      "isPremium": false,
+      "actions": [
+        {
+          "id": "1.1",
+          "type": "why",
+          "cuecard": "Barndomsångest är inte alltid en enkel känsla...",
+          "navbartitle": "Förstå ilska",
+          "description": "Under det plötsliga utbrottet kan det finnas känslor av frustration, sorg eller kanske till och med rädsla. Ett barn är fortfarande på väg att räkna ut alla sina stora känslor. I ett barns ögon, baserat på vad de har upplevt hittills, kan det du ser som små problem verka som massiva erbjudanden för dem.<br><br>Det är superviktigt att verkligen känna för ditt barn och inse att de har äkta känslor. Genom att utnyttja den förståelsen kan du hjälpa ditt barn att navigera och uttrycka sina känslor på ett hälsosammare sätt."
+        },
+        {
+          "id": "1.2",
+          "type": "do",
+          "cuecard": "håll dig lugn och ta djupa andetag",
+          "navbartitle": "Håll dig lugn och andas",
+          "description": "När ett barn blir arg är det lätt att snäppa tillbaka, särskilt när du känner dig uppvärmd också. Men det är bra att komma ihåg att hålla huvudet kallt visar ditt barn hur man hanterar stora känslor.<br><br>Ett barn är som en liten svamp; de märker allt. Genom att hålla dig lugn kan du ibland kyla ner en varm stund. Dessutom låter det ditt barn förstå att ilska inte alltid motiverar ett fientligt eller aggressivt svar.<br><br>Dessa stunder? De är gyllene chanser att lära ditt barn hur man hanterar dessa känslor senare i livet.",
+          "what_do": {
+            "good": [
+              "Ta djupa andetag, se till att alla är säkra och tala mjukt."
+            ],
+            "bad": [
+              "Skrik eller visa synlig frustration."
+            ]
+          },
+          "what_say": {
+            "good": [
+              "Låt oss båda lugna ner oss och prata."
+            ],
+            "bad": [
+              "Varför kan du inte bara uppföra dig?"
+            ]
+          }
+        },
+        {
+          "id": "1.3",
+          "type": "dont",
+          "cuecard": "ignorera föregående tecken och tips",
+          "navbartitle": "Ignorera inte de tidiga tecknen",
+          "description": "Ett barns utbrott kan verka plötsliga, men ofta finns det föregående tecken. Förändringar i beteende, kroppsspråk eller till och med små verbala signaler kan tyda på växande frustration. Dessa tips ger dig en möjlighet att ta itu med problem proaktivt. Att ignorera dessa tecken kan skicka ett meddelande om att ditt barns känslor inte är signifikanta eller giltiga.<br><br>Att ta itu med grundorsaken tidigt kan förhindra potentiella utbrott och ge ditt barn verktyg för att uttrycka sig.",
+          "what_do": {
+            "good": [
+              "Observera ditt barns beteende och leta efter mönster."
+            ],
+            "bad": [
+              "Avfärda små beteendeförändringar."
+            ]
+          },
+          "what_say": {
+            "good": [
+              "Jag har märkt att du har varit upprörd på sistone, vill du prata?"
+            ],
+            "bad": [
+              "Det är bara en fas."
+            ]
+          }
+        },
+        {
+          "id": "1.4",
+          "type": "gtk",
+          "cuecard": "Utvecklingsstadier kan spela en roll",
+          "navbartitle": "Utvecklingsfaser",
+          "description": "Ett barn förändras och växer snabbt. Med varje ny utvecklingsfas ett barn träffar, finns det nya utmaningar och de måste plocka upp nya sätt att hantera. Ibland kan ett barn agera bara för att se vad som händer eller testa vattnet.<br><br>Det är viktigt att skilja mellan 'bara en fas' och något som kan vara en större affär. Att upptäcka dessa små skillnader innebär att du kan kliva in precis vid rätt tidpunkt och hjälpa ditt barn att växa känslomässigt på ett hälsosamt sätt."
+        },
+        {
+          "id": "1.5",
+          "type": "do",
+          "cuecard": "erbjuda säkra utrymmen",
+          "navbartitle": "Erbjuda säkra utrymmen",
+          "description": "Ett barn behöver metoder för att uttrycka och hantera sina känslor. Säkra utlopp för ilska kan vara avgörande för att hjälpa ditt barn att bearbeta och kontrollera sina känslor.<br><br>Aktiviteter som sport, konst eller musik tjänar ett dubbelt syfte: de avleder den omedelbara känslomässiga energin och ger terapeutiska fördelar på lång sikt.<br><br>Genom att introducera dessa hanteringsmekanismer tidigt utrustar du ditt barn med värdefulla verktyg för känslomässig självhantering.",
+          "what_do": {
+            "good": [
+              "Uppmuntra aktiviteter som sport, målning eller att spela ett musikinstrument."
+            ],
+            "bad": [
+              "Straffa ditt barn för att uttrycka sina känslor."
+            ]
+          },
+          "what_say": {
+            "good": [
+              "Varför ritar du inte hur du känner?"
+            ],
+            "bad": [
+              "Var inte så dramatisk."
+            ]
+          }
+        },
+        {
+          "id": "1.6",
+          "type": "dont",
+          "cuecard": "märk ditt barn som 'arg' eller 'aggressiv'",
+          "navbartitle": "Märk inte",
+          "description": "Du bör avstå från att märka ett barn baserat på deras beteende. Att kalla ditt barn 'arg' eller 'aggressiv' kan leda till att de internaliserar dessa deskriptorer, vilket påverkar deras självvärde. Att istället ta itu med det specifika beteendet utan att attackera ditt barns karaktär främjar förtroende.<br><br>Konstruktiv feedback möjliggör öppen kommunikation, vilket säkerställer att ditt barn förblir mottagligt för vägledning och råd i framtiden.",
+          "what_do": {
+            "good": [
+              "Ta itu med det specifika beteendet och inte ditt barns karaktär."
+            ],
+            "bad": [
+              "Använd etiketter eller namnuppringning."
+            ]
+          },
+          "what_say": {
+            "good": [
+              "Att slå är inte okej, låt oss hitta ett bättre sätt att uttrycka våra känslor."
+            ],
+            "bad": [
+              "Varför är du alltid så arg?"
+            ]
+          }
+        },
+        {
+          "id": "1.7",
+          "type": "do",
+          "cuecard": "uppmuntra kommunikation och ge ett säkert utrymme för att dela känslor",
+          "navbartitle": "Säkert utrymme",
+          "description": "Medan ett barn kan kämpa för att uttrycka sina känslor, underlättar öppen kommunikation denna klyfta. Att uppmuntra ditt barn att dela med sig av vad som stör dem får dem att känna sig uppskattade och förstådda. Genom att främja denna typ av miljö tar du inte bara itu med deras omedelbara bekymmer utan lär dem också en viktig livskunskap.<br><br>Med tiden kommer ditt barn att bli mer kapabelt när det gäller att verbalisera sina känslor snarare än att vända sig till ilska eller aggression.",
+          "what_do": {
+            "good": [
+              "Skapa ett säkert utrymme där ditt barn kan dela med sig av sina känslor."
+            ],
+            "bad": [
+              "Avbryta eller ogiltigförklara ditt barns känslor."
+            ]
+          },
+          "what_say": {
+            "good": [
+              "Jag är här för dig. Berätta vad du tänker på."
+            ],
+            "bad": [
+              "Kom bara över det."
+            ]
+          }
+        },
+        {
+          "id": "1.8",
+          "type": "dont",
+          "cuecard": "använd fysisk bestraffning",
+          "navbartitle": "Straffa inte",
+          "description": "Fysisk bestraffning av ett barn kan intensifiera känslor av förbittring och ilska. När ett barn blir träffat eller fysiskt disciplinerat kan de internalisera budskapet att våld är en lösning på problem. Detta kan skapa en cykel av aggressivt beteende. Dessutom kan fysisk bestraffning bryta ner förtroende och trygghetskänslor i relationen mellan förälder och barn.<br><br>Det finns många alternativa disciplinära metoder som kan vara både effektiva och respektfulla.",
+          "what_do": {
+            "good": [
+              "Använd förlust av privilegier eller naturliga konsekvenser."
+            ],
+            "bad": [
+              "Tillvägagångssätt för att slå eller smiska."
+            ]
+          },
+          "what_say": {
+            "good": [
+              "Handlingar får konsekvenser. Låt oss diskutera ett bättre sätt."
+            ],
+            "bad": [
+              "Det här är för ditt eget bästa."
+            ]
+          }
+        },
+        {
+          "id": "1.9",
+          "type": "gtk",
+          "cuecard": "Empati räcker långt",
+          "navbartitle": "Använd empati",
+          "description": "Empati handlar inte bara om att förstå ditt barns känslor, utan också att låta dem veta att du är där med dem. Det är ett ömsesidigt känslomässigt utbyte som kan sprida spänningar och bygga ett robust känslomässigt band.<br><br>När ett barn inser att de inte är ensamma i sina känslor kan de vara mer villiga att dela och kommunicera.<br><br>Kom ihåg att slutmålet inte bara är att hantera ilskan utan att förstå dess grundorsak."
+        },
+        {
+          "id": "1.10",
+          "type": "do",
+          "cuecard": "sätt tydliga gränser",
+          "navbartitle": "Ställ in gränser",
+          "description": "Ett barn behöver gränser för att känna sig trygg och förstå världen omkring sig. Även om det verkar kontraintuitivt, ger tydliga regler dem faktiskt en känsla av säkerhet.<br><br>När ditt barn är medvetet om gränserna minskar det osäkerheten och den potentiella frustrationen som kan leda till utbrott.<br><br>Dessutom lär konsekvent upprätthållande av dessa gränser ditt barn ansvar och konsekvens; två mycket viktiga element för känslomässig utveckling.",
+          "what_do": {
+            "good": [
+              "Upprätta regler och genomdriv dem konsekvent."
+            ],
+            "bad": [
+              "Har skiftande eller otydliga gränser."
+            ]
+          },
+          "what_say": {
+            "good": [
+              "Vi har regler för att hålla alla säkra och glada."
+            ],
+            "bad": [
+              "Jag bryr mig inte, gör vad du vill."
+            ]
+          }
+        },
+        {
+          "id": "1.11",
+          "type": "dont",
+          "cuecard": "bortse från ditt barns triggers",
+          "navbartitle": "Identifiera utlösare",
+          "description": "Varje barn är unikt, med olika känsligheter och trösklar för ilska. Ibland kan de minsta sakerna utlösa dem. Genom att upptäcka och förstå vad som utlöser ditt barn kan du ta itu med potentiella utbrott innan de inträffar.<br><br>Att borsta bort dessa triggers som 'dumma' eller 'inga problem' kan av misstag få ditt barn att känna att deras känslor inte spelar någon roll, vilket leder till eskalerad ilska eller frustration i framtiden.",
+          "what_do": {
+            "good": [
+              "Leta efter mönster i ditt barns beteende för att identifiera triggers."
+            ],
+            "bad": [
+              "Borsta bort ditt barns känslor eller bli otålig."
+            ]
+          },
+          "what_say": {
+            "good": [
+              "Jag har märkt att du blir upprörd när X händer. Låt oss prata om det."
+            ],
+            "bad": [
+              "Varför överreagerar du alltid?"
+            ]
+          }
+        },
+        {
+          "id": "1.12",
+          "type": "gtk",
+          "cuecard": "Det handlar inte alltid om dig",
+          "navbartitle": "Handlar kanske inte om dig",
+          "description": "När ett barn piskar ut är det lätt att känna att det är en direkt återspegling av ditt föräldraskap eller att du är den enda orsaken till ilskan. Men ett barn hanterar en myriad av känslor och utmaningar dagligen. Från problem i skolan till svårigheter med vänner; många faktorer kan bidra till deras humör.<br><br>Att inse att ditt barns ilska inte alltid är en personlig attack kan hjälpa dig att närma dig situationen med mer förståelse och tålamod."
+        },
+        {
+          "id": "1.13",
+          "type": "dont",
+          "cuecard": "uppmuntra ditt barn att buteljera sina känslor",
+          "navbartitle": "Tappning upp det",
+          "description": "Att uppmuntra ett barn att undertrycka eller dölja sina känslor kan vara skadligt i det långa loppet. Flaska upp känslor kan komma ut på ohälsosamma sätt senare, oavsett om det är svåra utbrott, ångest eller till och med fysiska symtom.<br><br>Genom att låta ditt barn uttrycka sina känslor på lämpligt sätt och vägleda dem genom processen främjar du deras känslomässiga tillväxt och motståndskraft.",
+          "what_do": {
+            "good": [
+              "Främja hälsosamma uttryck för känslor."
+            ],
+            "bad": [
+              "Berätta för ditt barn att 'suga upp det' eller 'vara stark' hela tiden."
+            ]
+          },
+          "what_say": {
+            "good": [
+              "Det är okej att känna så här, låt oss arbeta igenom det tillsammans."
+            ],
+            "bad": [
+              "Stora barn gråter inte."
+            ]
+          }
+        },
+        {
+          "id": "1.14",
+          "type": "gtk",
+          "cuecard": "Yttre påverkan kan ibland spela en roll",
+          "navbartitle": "Tid för övervägande",
+          "description": "När ett barn växer utsätts de för olika yttre influenser; vänner, media eller samhällsnormer. Ibland kan ett barns aggressiva beteende härma något de har sett på TV eller med kamrater. Det är viktigt för dig att vara medveten om dessa influenser och ta itu med dem direkt.<br><br>Genom att förstå varifrån vissa beteenden kommer kan du ha meningsfulla samtal med ditt barn om det verkliga livet kontra det verkliga livet, kamratinflytande och att göra rätt val."
+        }
+      ]
+    }
+  ]
+}

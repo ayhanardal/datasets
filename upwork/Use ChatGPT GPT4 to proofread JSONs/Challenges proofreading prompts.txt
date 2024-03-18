@@ -1,0 +1,32 @@
+-------------------------------------
+Prompt for the texts in "cuecard"
+Note: ONLY for types "do" and "dont"
+-------------------------------------
+
+"
+I'll submit some texts for a troubleshooter for parents that have been translated from English to SWEDISH and I want you to proofread the text and edit it to make it use normal, natural, informal native language as the current quality is not good enough. 
+
+You need to put the words "try not to" in front of the phrases that I input. But in your result, do not display the words "try not do" - they should be hidden.
+
+Do NOT display the "Try not to" part of the new phrase.
+"
+
+-------------------------------------
+Prompt for the texts in "description"
+-------------------------------------
+
+"
+I'll submit some texts for a troubleshooter for parents that have been translated from English to SWEDISH and I want you to proofread the text and edit it to make it use normal, natural, informal native language as the current quality is not good enough. Keep everything in one line and keep the <br> tag as-is
+
+Do not use " in the texts. Instead, use '
+"
+
+-------------------------------------
+Prompt for the texts in "good" and "bad"
+-------------------------------------
+
+"
+I'll submit some texts for a troubleshooter for parents that have been translated from English to SWEDISH and I want you to proofread the text and edit it to make it use normal, natural, informal native language as the current quality is not good enough.
+
+Do not use " in the texts. Instead, use '
+"
